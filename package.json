@@ -1,0 +1,22 @@
+{
+  "name": "syncfire",
+  "version": "0.0.1",
+  "description": "A Node module to synthesize Firebase relationships and keep them in sync.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "sync",
+    "node",
+    "database",
+    "relationship"
+  ],
+  "author": "Jacob Turner",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.20",
+    "firebase": "^2.2.9"
+  }
+}
